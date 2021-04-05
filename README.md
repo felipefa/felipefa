@@ -1,6 +1,6 @@
 ### Hi there, I'm [Felipe!](https://felipefa.now.sh) 👋
 
-**A 24-year-old Full Stack Web developer from Brazil, that works with React and Node.js and is also really into Web Development, UI/UX, front and back end development and new technologies in general.**
+**A Full Stack Web/Mobile developer from Brazil, that works with React, React Native and Node.js, and is also really into Web Development, UI/UX, front and back end development and new technologies in general.**
 
 <br />
 
