@@ -59,12 +59,13 @@ Front End Developer Intern - Goiânia, Brazil - On-site (Jul 2015 - Nov 2015)
 
 
 ## Main Skills
-- Frameworks & Libraries: React Native, React, Node.js
+- Frameworks & Libraries: React Native, React, Next.js, Node.js
 - Languages: TypeScript, JavaScript (ES6+)
 - State Management: Context API, Redux, Zustand
-- Tools: Bitrise, XCode, Android Studio, Figma
-- Testing & QA: Jest, React Testing Library, Cypress
+- Tools & Platforms: Bitrise, Firebase, XCode, Android Studio, Figma
+- Testing: Jest, React Testing Library, Cypress
 - APIs: GraphQL, REST, WebSockets
+- Databases: MongoDB, SQL, PostgreSQL, Firestore
 
 
 ## Education
