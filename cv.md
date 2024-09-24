@@ -1,5 +1,6 @@
 # Felipe Araujo
-Cologne, Germany - [linkedin.com/in/felipe-araujo77](https://www.linkedin.com/in/felipe-araujo77) - [github.com/felipefa](https://github.com/felipefa) - [devaraujofelipe@gmail.com](mailto:devaraujofelipe@gmail)
+Cologne, Germany - [devaraujofelipe@gmail.com](mailto:devaraujofelipe@gmail)<br>
+[linkedin.com/in/felipe-araujo77](https://www.linkedin.com/in/felipe-araujo77) - [github.com/felipefa](https://github.com/felipefa)
 
 Senior Mobile Engineer with over 9 years of experience specialising in React Native and TypeScript. Proven track record of delivering high-performance mobile apps, mentoring teams, and driving business outcomes through scalable, user-focused solutions. Passionate about innovation and committed to staying at the forefront of mobile technology.
 
