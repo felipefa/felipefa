@@ -1,5 +1,5 @@
 # Felipe Araujo
-Cologne, Germany - [linkedin.com/in/felipe-araujo77](https://www.linkedin.com/in/felipe-araujo77)
+Cologne, Germany - [linkedin.com/in/felipe-araujo77](https://www.linkedin.com/in/felipe-araujo77) - [github.com/felipefa](https://github.com/felipefa) - [devaraujofelipe@gmail.com](mailto:devaraujofelipe@gmail)
 
 Senior Mobile Engineer with over 9 years of experience specialising in React Native and TypeScript. Proven track record of delivering high-performance mobile apps, mentoring teams, and driving business outcomes through scalable, user-focused solutions. Passionate about innovation and committed to staying at the forefront of mobile technology.
 
@@ -78,3 +78,7 @@ Pontifical Catholic University of Goiás (Jan 2014 - Dec 2018)
 - English - Advanced
 - Brazilian Portuguese - Native
 - German - Basic
+
+<br>
+
+[![Download as PDF](https://img.shields.io/badge/download%20as%20pdf-felipefa?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://mdtopdf.up.railway.app/convertPdf?url=https://github.com/felipefa/felipefa/blob/master/cv.md)
