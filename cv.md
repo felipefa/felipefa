@@ -10,9 +10,12 @@ Senior Mobile Engineer with over 9 years of experience specialising in React Nat
 Senior Mobile Engineer - Cologne, Germany - Remote (Mar 2024 - Present)
 - Led development of user-facing features for iOS and Android using React Native and TypeScript, creating responsive, reusable app components.
 - Increased app stability and reliability by refactoring legacy code and implementing automated tests, reducing production crashes from 15% to nearly 0%.
+- Boosted user engagement by increasing the DAU/MAU ratio from 9% to 35%, and DAU/WAU from 25% to 50%.
+- Developed and optimized the solar-optimized EV charging feature, with 25% of homeowners using the feature regularly, averaging twice a week.
+- Reduced PV system installation time by up to 40% by digitalizing key steps, including planning data collection and delivery feedback.
+- Achieved 80% customer feedback collection through the app, significantly reducing delivery-related delays.
 - Mentored 3 team members on best practices, fostering knowledge sharing and improving code quality.
-- Drove cross-functional collaboration to deliver scalable mobile solutions aligned with business objectives.
-- Delivered well-tested, maintainable code, focusing on speed, sustainability, and reusability.
+- Collaborated with cross-functional teams to deliver scalable, high-performance mobile solutions aligned with business goals.
 
 ### Famobi GmbH
 Senior Software Engineer - Cologne, Germany - On-site (Aug 2022 - Dec 2023)
