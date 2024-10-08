@@ -31,7 +31,7 @@ Software Engineer - Porto, Portugal - Hybrid (Aug 2021 - Jul 2022)
 
 ### devosign OHG
 Senior Software Engineer & Co-Founder - Goiânia, Brazil - Remote (Feb 2021 - Jul 2021)
-- Designed, developed and deployed a dynamic mobile game (Tic Tac Joy) made with React Native, Node.js and WebSockets.
+- In this side project, I designed, developed and deployed a dynamic mobile game (Tic Tac Joy) made with React Native, Node.js and WebSockets.
 
 ### Vorwärts GmbH
 Front End Developer - Goiânia, Brazil - Remote (Aug 2020 - Jul 2021)
